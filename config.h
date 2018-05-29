@@ -1,1 +1,1 @@
-#define DATASETPATH "C:/Users/Cookie/Downloads/PraxisUebung - Kopie/neghip.raw"
+#define DATASETPATH "C:/Users/Cookie/Documents/GitHub/PraxisUebung/neghip.raw"
